@@ -1,4 +1,2 @@
-# -Lua-
+# GLADIADOR->
  PRIMEIRO REPOSITORIO DE GIT E GITHUB
-   
-aprendendo a programar!
